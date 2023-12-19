@@ -32,7 +32,7 @@ ytick.major.width: 1
 ytick.minor.size: 0
 ytick.minor.width: .5
 
-lines.marker      : d    # marker type 
+lines.marker      : o    # marker type 
 lines.markerfacecolor  : maroon    # marker face color
 lines.markeredgecolor  : maroon    #  marker edge color
 lines.markeredgewidth  : 0.5     # the line width around the marker symbol
